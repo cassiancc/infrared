@@ -1,6 +1,6 @@
 # Getting Started
 
-There are multiple ways to install or setup you Infrared instance. Depending on what setup you choose you will have different pro and cons in usage and update cycles.
+There are multiple ways to install or setup you Infrared instance. Depending on what setup you choose you will have different pros and cons in usage and update cycles.
 
 ## Quick Start
 
@@ -22,7 +22,7 @@ Most common ones are in **bold**.
 
 ### Downloading
 
-If your system as a desktop environment then you should be able to download your binary by just clicking on the version you want on the releases page.
+If your system has a desktop environment, then you should be able to download your binary by just clicking on the version you want on the releases page.
 The URL of your download should look something like this:
 ```
 https://github.com/haveachin/infrared/releases/download/{version}/infrared_{architecture}.tar.gz
@@ -33,7 +33,7 @@ https://github.com/haveachin/infrared/releases/download/v1.3.4/infrared_Linux_x8
 ```
 
 ::: tip
-If you are using SSH to connect to a remote server and are currently using a desktop environment with a browser you can just right-click the version you need and copy the link. Then paste it into your terminal with Ctrl+Shift+V on GNU/Linux or right-click on Windows.
+If you are using SSH to connect to a remote server and are currently using a desktop environment with a browser you can just right-click the version you need and copy the link. Then, paste it into your terminal with Ctrl+Shift+V on GNU/Linux or right-click on Windows.
 :::
 
 Downloading by using the terminal on macOS or GNU/Linux:
