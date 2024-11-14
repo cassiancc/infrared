@@ -14,7 +14,7 @@ Most common ones are in **bold**.
 |-----------------------------|-----------------|---------------|--------------------|
 | PC, VPS or Root Server      | Linux based     | Linux_i386*   | **Linux_x86_64**   |
 | Raspberry Pi                | Raspberry Pi OS | Linux_armv6*  | **Linux_arm64**    |
-| Custom/Prebuild PC          | Windows         | Windows_i386* | **Windows_x86_64** |
+| Custom/Prebuilt PC          | Windows         | Windows_i386* | **Windows_x86_64** |
 | Intel Mac or MacBook        | macOS           | -             | Darwin_x86_64      |
 | M1 or higher Mac or MacBook | macOS           | -             | Darwin_arm64       |
 
